@@ -1,0 +1,12 @@
+date,event_title,description,war_day,category,brent_price_that_day,source
+2026-02-28,War Begins,US-Israel launch joint airstrikes on Iran nuclear sites. Supreme Leader Khamenei killed. Strait of Hormuz closed by IRGC.,1,Conflict Start,79.5,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-02,Qatar LNG Shutdown,Iran drone attacks on Ras Laffan force Qatar to suspend LNG production. Qatar = world's 2nd largest LNG exporter.,3,Energy Infrastructure,87.6,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-04,IEA Emergency Release,IEA announces 400M barrel release — largest in history. US commits 172M SPR barrels.,5,Policy Response,91.98,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-07,Dubai Crude Record,Dubai crude hits all-time high above $150/barrel. WTI-Dubai spread widens to unprecedented $50+,8,Price Record,96.8,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-10,Brent Crosses $100,Brent above $100 for first time since 2022. Gas at highest since mid-2024.,11,Price Milestone,99.8,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-13,Sanctioned Oil Released,US allows sanctioned Iranian tanker crude into market to ease prices.,14,Policy Response,103.2,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-15,Kharg Island Strike,Trump orders strikes on Iranian military assets at Kharg Island — 90% of Iran's oil exports ship from there.,16,Military Escalation,100.2,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-18,South Pars Attack,Israel strikes South Pars — Iran's largest gas field. Iran retaliates: hits Saudi Aramco Samref refinery + UAE Al Hosn gas field.,19,Energy Infrastructure,108.65,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-18,Qatar 17% LNG Offline,Iranian missile strikes take out 17% of Qatar's LNG export capacity. Ras Laffan blaze controlled — no casualties.,19,Energy Infrastructure,108.65,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-19,Brent Hits $119,Brent briefly touches $119 intraday high. Israel says helping reopen Hormuz. Netanyahu: 'War may end sooner than people think',20,Price Record,108.65,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
+2026-03-20,US Weighs Iranian Oil,US Treasury Sec Bessent: US may free sanctioned Iranian tanker oil. Hegseth warns 'largest strike package yet'. Brent $110.30.,21,Policy Response,110.3,CNBC/Fortune/Reuters/Euronews/NPR/IEA verified
